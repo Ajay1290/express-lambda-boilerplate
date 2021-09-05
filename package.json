@@ -1,0 +1,19 @@
+{
+  "name": "express-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node local.js",
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "Ajay Patil",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.5",
+    "aws-serverless-express": "^3.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
